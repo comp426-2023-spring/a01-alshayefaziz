@@ -1,0 +1,19 @@
+{
+  "name": "aziz-first-webserver",
+  "version": "1.0.0",
+  "description": "First attempt at building web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-alshayefaziz.git"
+  },
+  "author": "alshayefaziz",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-alshayefaziz/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-alshayefaziz#readme"
+}
