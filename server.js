@@ -21,8 +21,8 @@ fs.readFile('./public/index.html', 'utf8', (conserror, dataFile) => {
         console.error(conserror);
         return;
     }
-    console.log(dataFile);
-}
+    
+
 
 
 
